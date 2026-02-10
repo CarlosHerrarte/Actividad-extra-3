@@ -1,0 +1,10 @@
+Unidad 1
+
+En esta unidad aprendimos sobre los siguientes temas:
+Sistema Binario
+Logica
+Algoritmos
+Introducción a la programación
+Editores de texto y entornos de desarrollo
+
+El tema que mas llamo mi atención fue sobre los entornos de desarrollo de software, ya que existe una cantidad abundante de estas herramientas las cuales depende del la tarea que se llevara acabo ya sea desarrollo, testing o producción.

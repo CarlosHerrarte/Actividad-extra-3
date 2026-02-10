@@ -1,0 +1,8 @@
+Unidad 3
+
+En esta unidad aprendimos sobre los siguientes temas:
+Controlador de versiones
+Git
+GitHub
+
+En esta unidad el aprender a utilizar la plataforma de GitHub es algo bastante importante en la formación académica ya que comenzamos a tener el entendimiento de esta plataforma que pronto se convertir en nuestro portafolio para obtener plazas, el entender su funcionamiento y cada tipo de opción es indispensable para todos los que trabamos en este ámbito.

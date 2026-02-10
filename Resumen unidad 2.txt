@@ -1,0 +1,9 @@
+Unidad 2
+
+En esta unidad aprendimos sobre los siguientes temas:
+Conceptos básicos para iniciar a programar
+Tipos de datos y operadores
+Estructuras de Control Condicionales
+Estructuras de control de bucles
+
+En esta unidad todos los temas fueron de interés como también un reto, ya que todo va de la mano con la programación y son temas indispensables en cada proyecto que se llegue a trabajar por lo que su dominio es indispensable
